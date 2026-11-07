@@ -1,0 +1,9 @@
+{
+  "name": "activity-crawler",
+  "version": "1.0.0",
+  "description": "复旦公众号活动自动抓取云函数",
+  "main": "index.js",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.9.0"
+  }
+}

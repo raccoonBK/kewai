@@ -1,0 +1,1492 @@
+{
+  "sections": [
+    "一、校级官方平台 0校务 / 教务 / 生活服务",
+    "二、学生组织 / 团学矩阵 0团委·学生会·研会·书院·园区",
+    "三、学生社团 0以 2025-2026 注册名录为底盘"
+  ],
+  "total": 99,
+  "accounts": [
+    {
+      "name": "复旦大学",
+      "account_id": "fudanunivs",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "学校官方号，校闻、科研成果、人物与重大通知。所有复旦号里优先级最高。",
+      "tags": [
+        "复旦大学",
+        "官方",
+        "校闻",
+        "校报"
+      ],
+      "links": [
+        {
+          "title": "2026 新生公众号合集（含下方多数号的出处）",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzA3ODM3ODExNw==&mid=2652756032&idx=1&sn=5bbb46cd2e6dac8ac14df28770e0435f"
+        }
+      ]
+    },
+    {
+      "name": "复旦上医",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "复旦大学上海医学院官方号，名医名师、上医精神与医学院动态。",
+      "tags": [
+        "复旦上医",
+        "上海医学院",
+        "医学"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦信息办",
+      "account_id": "fduxxb",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "绑 UIS 后收平安复旦提醒、电费充值、一卡通、ehall 进度；缴费三个官方入口之一。",
+      "tags": [
+        "复旦信息办",
+        "信息化",
+        "一卡通",
+        "平安复旦",
+        "电费"
+      ],
+      "links": [
+        {
+          "title": "校方：在线缴学费认准「复旦信息办」等三入口",
+          "url": "https://icampus.fudan.edu.cn/42/3a/c33378a410170/page.htm"
+        }
+      ]
+    },
+    {
+      "name": "复旦教务处",
+      "account_id": "fdujwc",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "本科生院/教务处订阅号，选课、考试、课程与教学动态。",
+      "tags": [
+        "复旦教务处",
+        "本科生院",
+        "选课",
+        "绩点"
+      ],
+      "links": [
+        {
+          "title": "教务处官网 jwc.fudan.edu.cn",
+          "url": "https://jwc.fudan.edu.cn/"
+        }
+      ]
+    },
+    {
+      "name": "复旦课评",
+      "account_id": "gh_b32e4144addc",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "本科课程评估，微信端评教；未完成会影响成绩查看。",
+      "tags": [
+        "复旦课评",
+        "评教"
+      ],
+      "links": [
+        {
+          "title": "教务处评教通知（点名该号）",
+          "url": "http://www.jwc.fudan.edu.cn/96/7b/c27321a693883/page.htm"
+        }
+      ]
+    },
+    {
+      "name": "复旦总务",
+      "account_id": "fduzwc",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "总务处号，物业报修、食堂公共空间预约、电瓶车充电等后勤事务。",
+      "tags": [
+        "复旦总务",
+        "后勤",
+        "报修",
+        "食堂"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学图书馆",
+      "account_id": "fudanlibrary",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "馆藏查询、图书上新、座位预约、数据库与讲座通知。",
+      "tags": [
+        "复旦大学图书馆",
+        "座位预约"
+      ],
+      "links": [
+        {
+          "title": "图书馆官网",
+          "url": "https://www.library.fudan.edu.cn/"
+        }
+      ]
+    },
+    {
+      "name": "复旦大学图书馆医科馆",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "枫林校区医学专业馆，培训、资源推介、服务通知。",
+      "tags": [
+        "复旦大学图书馆医科馆",
+        "枫林"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦研究生",
+      "account_id": "復旦研究生",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "研究生院/研工部口径的校园快讯号，研究生先看它。",
+      "tags": [
+        "复旦研究生",
+        "研究生",
+        "资讯"
+      ],
+      "links": [
+        {
+          "title": "2026 新生公众号清单（该号出品）",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzA3ODM3ODExNw==&mid=2652670508&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "复旦大学研究生教育",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "研招、培养、学位工作与优秀博士学位论文专题。",
+      "tags": [
+        "复旦大学研究生教育",
+        "招生",
+        "培养",
+        "学位"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦就业",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "校招公告、实习内推、选调生政策转载。",
+      "tags": [
+        "复旦就业",
+        "校招",
+        "实习"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦生涯",
+      "account_id": "FudanCareer",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "学生职业发展教育服务中心号，招聘/实习/宣讲会+政策解读+办事指南。",
+      "tags": [
+        "复旦生涯",
+        "职业发展",
+        "招聘",
+        "宣讲会"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦海外交流",
+      "account_id": "FD_FAOEFFAC",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "外事处暨港澳台办指导，交换、国际会议、海外实习资讯，兼招外事接待储备。",
+      "tags": [
+        "复旦海外交流",
+        "交换",
+        "港澳台"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学国际合作交流",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "国际合作与交流处官方平台，招生政策与通知公告。",
+      "tags": [
+        "复旦大学国际合作交流",
+        "留学生",
+        "留学复旦"
+      ],
+      "links": []
+    },
+    {
+      "name": "留学复旦",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "外国留学生工作处号，面向国际学生的招生与校园资讯。",
+      "tags": [
+        "留学复旦",
+        "外国留学生"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学财务与国资处",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "学费、住宿费、党费缴纳与财务「一网通办」。与信息办并列三大缴费入口。",
+      "tags": [
+        "复旦财务与国资处",
+        "缴费"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦佩琳院",
+      "account_id": "gh_45036487bf96",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "校医院号，门诊时间、就诊、报销流程与健康科普。",
+      "tags": [
+        "复旦佩琳院",
+        "校医院",
+        "医务室"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦保保",
+      "account_id": "gh_62164de12be4",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "保卫处号，安全教育与警情提示。",
+      "tags": [
+        "复旦保保",
+        "保卫处",
+        "安全"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦招生",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "本科生招生办号，「旦生纪」「两校书」等栏目。",
+      "tags": [
+        "复旦招生",
+        "本科招生"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学校友总会",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "校友活动、值年返校、校友卡申领与校友故事。",
+      "tags": [
+        "复旦大学校友总会",
+        "校友"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦通识 / 复旦通识教育",
+      "account_id": "FDU-GE",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "通识教育中心，核心课程信息、名师访谈、讲座预告。",
+      "tags": [
+        "复旦通识",
+        "通识教育",
+        "核心课程",
+        "讲座"
+      ],
+      "links": [
+        {
+          "title": "通识教育中心官网",
+          "url": "https://gecc.fudan.edu.cn/"
+        }
+      ]
+    },
+    {
+      "name": "复旦FDUROP",
+      "account_id": "FDUROP",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "本科生学术研究资助计划（望道/曦源等）信息发布与学者交流。",
+      "tags": [
+        "复旦FDUROP",
+        "本科科研",
+        "望道",
+        "曦源"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学体育教学部",
+      "account_id": "fudandaxuetijiaobu",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "刷锻次数查询、赛事推广、体育课通知。",
+      "tags": [
+        "复旦大学体育教学部",
+        "刷锻",
+        "体测",
+        "赛事"
+      ],
+      "links": [
+        {
+          "title": "体育教学部官网",
+          "url": "https://fdty.fudan.edu.cn/"
+        }
+      ]
+    },
+    {
+      "name": "复旦百晓生",
+      "account_id": "FDUbaixiaosheng",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "校园服务百科，四六级/FET 报名、假期开放信息等流程图解。",
+      "tags": [
+        "复旦百晓生",
+        "服务指南",
+        "四六级",
+        "FET"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦卿云歌",
+      "account_id": "qingyunge_fudan",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "党委学生工作部号，时政热点、学工新闻、本科生动态。",
+      "tags": [
+        "复旦卿云歌",
+        "学工",
+        "思政"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦党建1925（公众号+小程序）",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "党费交纳、组织关系转接、党建活动与知识竞赛。",
+      "tags": [
+        "复旦党建1925",
+        "党建",
+        "党费",
+        "组织关系"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦江湾",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "江湾校区管委会号，校区资讯+「你呼我应」留言平台。",
+      "tags": [
+        "复旦江湾",
+        "江湾校区"
+      ],
+      "links": []
+    },
+    {
+      "name": "团团在复旦",
+      "account_id": "fudangongqingtuan",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "复旦团委官方号，视频号/B站同步运营，新生资讯总入口之一。",
+      "tags": [
+        "团团在复旦",
+        "团委"
+      ],
+      "links": [
+        {
+          "title": "该号出品的「最全校级信息渠道汇总」",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzAwNjA1ODE4Mw==&mid=2651888070&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "复旦大学学生会",
+      "account_id": "fudansu",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "校学生会号＋视频号＋B站构成融媒体矩阵；另有枫林办公室号服务医学生。",
+      "tags": [
+        "复旦大学学生会",
+        "学生会"
+      ],
+      "links": [
+        {
+          "title": "2026 新志愿者培训营（含微博/邮箱/常代会监督渠道）",
+          "url": "http://mp.weixin.qq.com/s?__biz=MjM5NDI1MTgyMA==&mid=2650344019&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "复小研",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "复旦大学研究生会号，校园资讯、科研赛事、实践立项；研会设枫林工作委员会。",
+      "tags": [
+        "复小研",
+        "研究生会",
+        "研会"
+      ],
+      "links": [
+        {
+          "title": "研究生社团清单 / 研会招新信息",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzkzMTE0NTIwNA==&mid=2247585966&idx=2"
+        }
+      ]
+    },
+    {
+      "name": "复旦大学团委学生艺术团",
+      "account_id": "FudanArtTroupe",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "迎新晚会、歌手大赛、歌会与人物访谈；「工坊」艺术季主办方。",
+      "tags": [
+        "复旦大学团委学生艺术团",
+        "艺术团",
+        "晚会"
+      ],
+      "links": [
+        {
+          "title": "工坊艺术季·燕园剧社《陆上行舟》预告",
+          "url": "http://mp.weixin.qq.com/s?__biz=MjM5MzUwOTEwMQ==&mid=2650723408&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "公共艺术课堂",
+      "account_id": "ggyskt",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "隶属团委艺术团，叶耀珍楼 503，高雅+流行艺术活动推荐。",
+      "tags": [
+        "公共艺术课堂",
+        "叶耀珍楼",
+        "艺术普及"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦青年",
+      "account_id": "fduyouth",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "团委旗下《复旦青年》刊物号，深度报道与特稿。",
+      "tags": [
+        "复旦青年",
+        "复旦青年报社",
+        "媒体"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦人周报",
+      "account_id": "fudanweekly",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "校学生会媒体，主题报道＋校园服务信息。",
+      "tags": [
+        "复旦人周报",
+        "媒体",
+        "校园新闻"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦团委实践部",
+      "account_id": "fudan_practice",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "日常化/寒暑假社会实践、校内志愿招募与优秀案例。",
+      "tags": [
+        "复旦团委实践部",
+        "社会实践",
+        "实践"
+      ],
+      "links": []
+    },
+    {
+      "name": "团委青志",
+      "account_id": "fdutwqz",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "校团委青年志愿者工作部，志愿活动策划、认定与管理。",
+      "tags": [
+        "团委青志",
+        "志愿者",
+        "青志"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学学生社团",
+      "account_id": "Fdu_shetuan",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "校团委社团发展部/社团团工委号，配「学生社团服务中心」小程序：查 239 家注册社团、报名、签到、参团。找社团先搜它。",
+      "tags": [
+        "复旦大学学生社团",
+        "社团服务中心",
+        "百团"
+      ],
+      "links": [
+        {
+          "title": "2025-2026 春学期注册社团名录（239 家，含音乐剧社/燕园/麦田）",
+          "url": "http://mp.weixin.qq.com/s?__biz=Mzk3NTQ1MDMxMg==&mid=2247495798&idx=1"
+        },
+        {
+          "title": "参团流程教程",
+          "url": "http://mp.weixin.qq.com/s?__biz=Mzk3NTQ1MDMxMg==&mid=2247493423&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "复旦大学博士生讲师团",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "主题宣讲、联合宣讲、微党课产品库。",
+      "tags": [
+        "复旦大学博士生讲师团",
+        "博讲团",
+        "宣讲"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学学生科协",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "学生科学技术协会，科研科创活动组织。",
+      "tags": [
+        "复旦大学学生科协",
+        "科创"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学创新创业学院",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "培养—孵化全链条，创新创业赛事与项目。",
+      "tags": [
+        "复旦大学创新创业学院",
+        "双创",
+        "孵化"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学青年研究中心",
+      "account_id": "fdu_yrc",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "挂靠学工部的研究平台，出全校公众号/热文传播力榜单——就是这类清单的原始数据源。",
+      "tags": [
+        "复旦大学青年研究中心",
+        "榜单",
+        "青年研究"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学学生发展中心 / 学生学习与发展中心",
+      "account_id": "fducsld",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "学工部指导，整合书院与学习资源，推送学业支持信息。",
+      "tags": [
+        "复旦大学学生发展中心",
+        "学发",
+        "学习资源"
+      ],
+      "links": [
+        {
+          "title": "该号出品的公众号指南（含大量微信号）",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzU0MzQ1NTM3MQ==&mid=2247498497&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "复旦心理健康教育中心",
+      "account_id": "fudanpsy_603",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "咨询预约、团体训练、心理活动与科普。",
+      "tags": [
+        "复旦心理健康教育中心",
+        "心理",
+        "咨询"
+      ],
+      "links": []
+    },
+    {
+      "name": "FDU糖心旦",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "学生朋辈成长联盟，成长小组、OH 卡小组，收 #送你一颗糖 投稿。",
+      "tags": [
+        "FDU糖心旦",
+        "朋辈",
+        "成长",
+        "糖心旦"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦家园",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "本科生助学成才家园，受助学生朋辈组织，「感恩·奉献·成长」。",
+      "tags": [
+        "复旦家园",
+        "助学",
+        "勤工助学",
+        "资助"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦资助",
+      "account_id": "fudanzizhu",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "学工部资助办号，绿色通道、奖助贷、勤助岗位。",
+      "tags": [
+        "复旦资助",
+        "资助",
+        "绿色通道",
+        "奖助"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦基层就业",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "基层就业服务协会号，选调公告、「新羽计划」、驻村实践；粉丝 5.2 万＋原创千篇。",
+      "tags": [
+        "复旦基层就业",
+        "基层",
+        "选调",
+        "新羽"
+      ],
+      "links": [
+        {
+          "title": "2026 秋季招新（含协会规模数据）",
+          "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1793107736&signature=IIfNAxJgNEsud9gpy0-zIvWOQLlaCGYMsYE6t3hAFM1Z*7wU6bUUenc0AaA12XEIs5gok8ot3nx6CEv*fOYo4BT18rVfN0OAVewtlnKkDmCchO3HgcJH6FfA67Ae349C"
+        }
+      ]
+    },
+    {
+      "name": "复旦iCareer",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "职发中心指导，技能培训、名企对接、生涯规划。",
+      "tags": [
+        "复旦iCareer",
+        "iCareer",
+        "生涯",
+        "求职"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦iJob协会",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "学生就业交流平台，招聘与用人单位对接。",
+      "tags": [
+        "复旦iJob",
+        "iJob",
+        "就业",
+        "招聘"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦国协FDG2IO",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "国际组织实习招募、能力培训，承担「荣昶学者」项目信息发布。",
+      "tags": [
+        "复旦国协FDG2IO",
+        "国际组织",
+        "荣昶学者"
+      ],
+      "links": []
+    },
+    {
+      "name": "人文相辉",
+      "account_id": "gh_617016abbdc8",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "党委宣传部出品，文化校历与校园文化活动资讯。",
+      "tags": [
+        "人文相辉",
+        "校园文化",
+        "文化校历"
+      ],
+      "links": []
+    },
+    {
+      "name": "书院在复旦",
+      "account_id": "shuyuanzfd",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "书院教育总号＋「智慧书院」小程序，报名书院活动的主渠道。",
+      "tags": [
+        "书院在复旦",
+        "五大书院",
+        "总平台"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学志德书院",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "五大书院各自独立号之一，动态与活动通知。",
+      "tags": [
+        "复旦大学志德书院",
+        "书院"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学任重书院",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "人文社科特色，讲座与传统文化活动。",
+      "tags": [
+        "复旦大学任重书院",
+        "书院"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学腾飞书院",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "工程技术大类特色，科技创新与通识。",
+      "tags": [
+        "复旦大学腾飞书院",
+        "书院",
+        "工科"
+      ],
+      "links": [
+        {
+          "title": "腾飞迎新公众号指南",
+          "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1793107736&signature=h88A6RPAbBnzNC0ABrhmtnVax3qvHObpvTQquD4oxWBSsmptDybsXeIzZDwOuK5Z7ClSpHr-2sNjgwnndJjokGaK4yZXf5Lq3OMo1c3FX9g8vpiZakepPAZZc5i7F8ah"
+        }
+      ]
+    },
+    {
+      "name": "复旦大学克卿书院",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "医学学科特色，服务医学生成长。",
+      "tags": [
+        "复旦大学克卿书院",
+        "书院",
+        "医学"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学希德书院",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "书院文化、学生发展、公共事务。",
+      "tags": [
+        "复旦大学希德书院",
+        "书院"
+      ],
+      "links": []
+    },
+    {
+      "name": "园园在复旦",
+      "account_id": "fd_yuanqu_college",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "学工部园区办总号，书院动态＋园区事务一键办。",
+      "tags": [
+        "园园在复旦",
+        "生活园区",
+        "园区"
+      ],
+      "links": []
+    },
+    {
+      "name": "北苑园委会",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "邯郸北苑生活园区，物业/食堂/同学间的桥梁。",
+      "tags": [
+        "北苑园委会",
+        "邯郸北苑"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦南东苑",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "南苑、东苑园区，安全守护与生活服务。",
+      "tags": [
+        "复旦南东苑",
+        "南苑",
+        "东苑"
+      ],
+      "links": []
+    },
+    {
+      "name": "江湾园委会",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "「一切为了江湾，一切为了同学」。",
+      "tags": [
+        "江湾园委会",
+        "江湾园区"
+      ],
+      "links": []
+    },
+    {
+      "name": "西苑园委会",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "枫林校区西苑学生生活园区。",
+      "tags": [
+        "西苑园委会",
+        "枫林西苑"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦张江生活园区",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "张江校区园委会号。",
+      "tags": [
+        "复旦张江生活园区",
+        "张江"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦爱久公寓",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "专硕研究生校外住宿信息服务平台。",
+      "tags": [
+        "复旦爱久公寓",
+        "专硕",
+        "校外住宿"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦语言学习中心",
+      "account_id": "llc5103",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "一对一外语辅导、跨文化沙龙、英语竞赛信息（五教 5103）。",
+      "tags": [
+        "复旦大学语言学习中心",
+        "外语",
+        "写作中心"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学英文写作中心",
+      "account_id": "FEWH2019",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "外文学院大英部，英文写作辅导预约与干货。",
+      "tags": [
+        "复旦大学英文写作中心",
+        "写作"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学外国教材中心",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "1979 年教育部设于复旦的教育资源共享基地。",
+      "tags": [
+        "复旦外国教材中心",
+        "教材"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦语言学",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "语法、词汇、方言音韵等学术前沿与讲座。",
+      "tags": [
+        "复旦语言学",
+        "语言学"
+      ],
+      "links": []
+    },
+    {
+      "name": "青书馆",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "北苑亚洲青年交流中心内的学生运营学术书店。",
+      "tags": [
+        "青书馆",
+        "北苑",
+        "书店"
+      ],
+      "links": []
+    },
+    {
+      "name": "阿加德默",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "北苑学生自主运营的学术活动空间，六大主题空间。",
+      "tags": [
+        "阿加德默",
+        "学术空间",
+        "北苑"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦剧社",
+      "account_id": "__biz=MjM5NDAzNDMyMA==",
+      "id_type": "biz",
+      "status": "verified",
+      "desc": "1925 年复旦新剧团，1926 年洪深更名并任指导，首创「话剧」一词。全国高校最早专业化学生剧团之一，连续六届中国校园戏剧节获奖。小红书「复旦剧社在干嘛」。注意：不是燕园剧社，也不是麦田剧社。",
+      "tags": [
+        "复旦剧社",
+        "话剧",
+        "百年剧社",
+        "洪深"
+      ],
+      "links": [
+        {
+          "title": "校新闻中心：复旦剧社百年专题",
+          "url": "https://newsroom.fudan.edu.cn/_s3/2025/0522/c236a145464/page.psp"
+        },
+        {
+          "title": "2026 招新「纯粹戏剧入口」（邯郸东区黑匣子剧场）",
+          "url": "http://mp.weixin.qq.com/s?__biz=MjM5NDAzNDMyMA==&mid=2652324682&idx=1"
+        },
+        {
+          "title": "百年发展基金页（校方点名该公众号）",
+          "url": "https://give.fudan.edu.cn/project.action?id=1712"
+        }
+      ]
+    },
+    {
+      "name": "FDU燕园剧社",
+      "account_id": "__biz=MzU4NjI4NDY1NQ==",
+      "id_type": "biz",
+      "status": "verified",
+      "desc": "1985 年成立，走先锋戏剧＋原创戏剧，每学期至少一部学期大戏，另有剧本围读、身体工作坊、当代剧场放映。⚠️ 旧号「燕园剧社」已停用，现在只认 FDU燕园剧社；社长微信轮换（近期为 ddwhc20071125 / wx15126586227），以最新推送为准。",
+      "tags": [
+        "FDU燕园剧社",
+        "燕园剧社",
+        "先锋",
+        "原创",
+        "话剧"
+      ],
+      "links": [
+        {
+          "title": "换号公告（旧号原文）",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzA5Mzg1Mjk2MA==&mid=2648405589&idx=1"
+        },
+        {
+          "title": "2026 招新「种子与根芽」",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzU4NjI4NDY1NQ==&mid=2247487454&idx=1"
+        },
+        {
+          "title": "部门介绍＋大群入口",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzU4NjI4NDY1NQ==&mid=2247486851&idx=1"
+        },
+        {
+          "title": "早期招新（含成立年份与定位）",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzU4NjI4NDY1NQ==&mid=2247484436&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "复旦音乐剧社",
+      "account_id": "__biz=MzA3MzA4MzUyNg==",
+      "id_type": "biz",
+      "status": "verified",
+      "desc": "2012/2013 年前后成立，演过《Rent》《悲惨世界》《Q大道》《芝加哥》《歌舞线上》《近乎正常》等，每年 GALA 音乐会与大戏；运行组＋剧组两套架构，B 站账号同步活跃。社庆 13 周年在相辉堂北堂。",
+      "tags": [
+        "复旦音乐剧社",
+        "音乐剧",
+        "Musical",
+        "社庆GALA"
+      ],
+      "links": [
+        {
+          "title": "十三周年 GALA 开票（2025.12）",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzA3MzA4MzUyNg==&mid=2651197662&idx=1"
+        },
+        {
+          "title": "招新：一部音乐剧的诞生",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzA3MzA4MzUyNg==&mid=2651195466&idx=1"
+        },
+        {
+          "title": "历次大戏年表＋部门介绍",
+          "url": "http://mp.weixin.qq.com/s?__biz=MzA3MzA4MzUyNg==&mid=2651193056&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "麦田剧社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "1996 年成立于外文学院，2005 年升为校级社团，校內唯一英文剧社，「守望麦田，拥抱经典」。名录确认存续，公众号名未在公开推送中露出，微信搜「麦田剧社 复旦」并核对主体。",
+      "tags": [
+        "麦田剧社",
+        "英文剧社",
+        "外国语"
+      ],
+      "links": [
+        {
+          "title": "学生会推文里的「学生社团服务中心」社团详情页",
+          "url": "http://mp.weixin.qq.com/s?__biz=MjM5NDI1MTgyMA==&mid=2650292435&idx=2"
+        }
+      ]
+    },
+    {
+      "name": "守望剧社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "名录在册的文化体育类戏剧社团（序号 147）。号名未核实，搜「复旦守望剧社」。",
+      "tags": [
+        "守望剧社",
+        "戏剧"
+      ],
+      "links": []
+    },
+    {
+      "name": "枫林剧社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "枫林校区向戏剧社团，名录序号 92。号名未核实。",
+      "tags": [
+        "枫林剧社",
+        "枫林",
+        "医学",
+        "戏剧"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦FDanso现代舞协",
+      "account_id": "__biz=MjM5NTQ0MjcxNg==",
+      "id_type": "biz",
+      "status": "verified",
+      "desc": "1996 年成立，街舞（Hiphop/Jazz/Popping/Locking/House 等）教学班＋学期专场＋高校联赛，零基础班也收。",
+      "tags": [
+        "复旦FDanso现代舞协",
+        "FDanso",
+        "街舞",
+        "1996"
+      ],
+      "links": [
+        {
+          "title": "招新＋考团规则",
+          "url": "http://mp.weixin.qq.com/s?__biz=MjM5NTQ0MjcxNg==&mid=2650736046&idx=1"
+        },
+        {
+          "title": "2026 秋考团（邮箱 fdanso199601@163.com）",
+          "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1793107743&signature=h0O3Ml1m9jsitAp6VlgprL1*CtWZo7tPv6OBg67jBlljNE3UXOzGq8JXRXeE7OErqjvVHvukWJEFpqZTtIuvl4JueLcSR3CUTdJlq7vmZKNC5VbJedKqpUNxVg*u8FTf"
+        }
+      ]
+    },
+    {
+      "name": "复旦大学国标舞协",
+      "account_id": "fDu国标舞协君",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "1997 年创立，2025 世界杯国标舞高校名校团体赛冠军、CBDF 世界名校对抗赛世界第一，多次五星社团。",
+      "tags": [
+        "复旦大学国标舞协",
+        "国标舞",
+        "体育舞蹈"
+      ],
+      "links": [
+        {
+          "title": "2026 秋招新（舞协君微信号＋面试要求）",
+          "url": "http://mp.weixin.qq.com/s?__biz=MjM5MTc3MTY2NQ==&mid=2654258900&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "fdu余音戏曲社 / 复旦大学余音社",
+      "account_id": "__biz=Mzg5MDY5NTYxMQ==",
+      "id_type": "biz",
+      "status": "verified",
+      "desc": "传习京剧、昆曲、越剧，2024 上海市标杆活力社团、2026 校四星社团。百团大战现场演《贵妃醉酒》。",
+      "tags": [
+        "fdu余音戏曲社",
+        "余音社",
+        "京剧",
+        "昆曲",
+        "越剧"
+      ],
+      "links": [
+        {
+          "title": "2026 秋招新",
+          "url": "http://mp.weixin.qq.com/s?__biz=Mzg5MDY5NTYxMQ==&mid=2247484393&idx=1"
+        }
+      ]
+    },
+    {
+      "name": "Echo合唱团",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "名录序号 69。号名未核实。",
+      "tags": [
+        "Echo合唱团",
+        "合唱"
+      ],
+      "links": []
+    },
+    {
+      "name": "卿云合唱俱乐部",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "名录序号 139。号名未核实。",
+      "tags": [
+        "卿云合唱俱乐部",
+        "合唱"
+      ],
+      "links": []
+    },
+    {
+      "name": "书院Lumos合唱团",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "名录序号 149。号名未核实。",
+      "tags": [
+        "书院Lumos合唱团",
+        "合唱"
+      ],
+      "links": []
+    },
+    {
+      "name": "歌社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "名录序号 98。号名未核实。",
+      "tags": [
+        "歌社",
+        "阿卡贝拉",
+        "人声"
+      ],
+      "links": []
+    },
+    {
+      "name": "友声民乐社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "名录序号 178。号名未核实。",
+      "tags": [
+        "友声民乐社",
+        "民乐"
+      ],
+      "links": []
+    },
+    {
+      "name": "器乐类：钢琴协会 / 吉他协会 / 口琴联盟 / 尤克里里社 / 古琴社 / 西泠琴社 / 乐手联盟",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "均在 2025-2026 注册名录文化体育类内。公众号普遍未公开露出，建议走「复旦大学学生社团」小程序查最新招新推文。",
+      "tags": [
+        "钢琴协会",
+        "吉他协会",
+        "口琴联盟",
+        "尤克里里社",
+        "古琴社",
+        "西泠琴社",
+        "乐手联盟"
+      ],
+      "links": []
+    },
+    {
+      "name": "北方社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "复旦相声社团，演员百余人，每周五晚叶耀珍楼 102 固定活动，2024 校五星社团。团委艺术团「工坊」艺术季多次报道。",
+      "tags": [
+        "北方社",
+        "相声",
+        "五星社团"
+      ],
+      "links": []
+    },
+    {
+      "name": "旦口喜剧",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "脱口秀/喜剧类，2024 四星社团。号名未核实。",
+      "tags": [
+        "旦口喜剧",
+        "脱口秀",
+        "开放麦"
+      ],
+      "links": []
+    },
+    {
+      "name": "昆曲研习社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "名录在册。号名未核实。",
+      "tags": [
+        "昆曲研习社",
+        "昆曲"
+      ],
+      "links": []
+    },
+    {
+      "name": "魔术社 / 基岩社 / 奇幻文学扮演社 / 推理协会 / 战略游戏社 / 狼人杀协会",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "均在册，其中基岩社、魔术社为 2024 四星/活跃社团。号名未核实。",
+      "tags": [
+        "魔术社",
+        "基岩社",
+        "奇幻文学扮演社",
+        "推理协会",
+        "桌游",
+        "战略游戏社"
+      ],
+      "links": []
+    },
+    {
+      "name": "卿云舞团 / 心舞舞蹈团 / 啦啦队 / Hiphop社 / FLOW滑板社 / 空手道·剑道·柔术·太极推手",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "舞蹈与武道类社团，Hiphop 社为 2024 五星社团。号名多数未公开，以小程序招新信息为准。",
+      "tags": [
+        "FDanso现代舞协已单列",
+        "卿云舞团",
+        "心舞舞蹈团",
+        "国标舞协已单列",
+        "啦啦队"
+      ],
+      "links": []
+    },
+    {
+      "name": "电影协会 / 沸点漫画社 / 科幻协会 / 诗社 / 书画协会 / 七艺画社 / 摄影协会 / 大众印社 / 陶艺协会",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "文艺创作类，均在册。号名未核实。",
+      "tags": [
+        "电影协会",
+        "沸点漫画社",
+        "科幻协会",
+        "诗社",
+        "书画协会",
+        "七艺画社",
+        "摄影协会",
+        "大众印社"
+      ],
+      "links": []
+    },
+    {
+      "name": "复旦大学天文协会（FAS）",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "全国百强社团、校五星社团，流星雨观测记录被 IMO/NASA 采用，出版双语杂志《观象》。号名未核实。",
+      "tags": [
+        "天文协会",
+        "FAS",
+        "五星社团"
+      ],
+      "links": []
+    },
+    {
+      "name": "电子创客社团（EGA）/ 青年法学会 / 本草心社 / 史翼社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "均为 2024 五星社团；青年法学会 1986 年创立，办《阶梯》刊物与「法学+X」讲座。号名未核实。",
+      "tags": [
+        "电子创客社团",
+        "EGA",
+        "青年法学会",
+        "本草心社",
+        "史翼社"
+      ],
+      "links": []
+    },
+    {
+      "name": "AI科学协会 / 算法协会 / 开放原子开源社团 / 金融协会 / 翻译社 / 吴语协会 / 金庸社 / 校史协会 / 舆图社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "学术科技类在册社团，号名未核实。",
+      "tags": [
+        "AI科学协会",
+        "算法协会",
+        "区块链",
+        "开源",
+        "金融协会",
+        "翻译社",
+        "吴语协会",
+        "金庸社",
+        "校史协会"
+      ],
+      "links": []
+    },
+    {
+      "name": "远征社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "2006 年成立，复旦规模最大的公益类社团之一，每年十余支支教队，「远征杯」「远征论坛」；社号推文曾被哲学青年等他号转载。",
+      "tags": [
+        "远征社",
+        "公益",
+        "支教",
+        "五星"
+      ],
+      "links": [
+        {
+          "title": "复旦哲学青年转载的社团介绍（含公众号名「远征社」）",
+          "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1793107736&ver=7052&signature=lzMeZnYcAgtIqozk8ZqJT-yNXgGMSuy4TANeGOETUXMgvJtXqVR8aREUHUJvwk2mcfa1D-OxdnLbeN0iaVMmYIHyB2R0xIkjbZvO-VRtwDKxwk5fvYLubE84tli6OmcA"
+        }
+      ]
+    },
+    {
+      "name": "「复小招」工作室 / 旦愿君至",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "verified",
+      "desc": "志愿公益类社团，做招生宣传、「旦生纪/孵旦纪」栏目、寒假返校宣讲全流程。推送落款常用「旦愿君至」。",
+      "tags": [
+        "复小招工作室",
+        "招生宣传",
+        "旦生纪"
+      ],
+      "links": [
+        {
+          "title": "百团招新现场介绍",
+          "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1793107736&ver=7052&signature=FI2SG6C7TPjC-RUB5Sl8*Fm5La3DlTyi*LLStl7LxCoa61ufNy1AKBcQdOj1M2qcMMjw4qxOohDqmze--ztacuyarJoVQjZk2JOjnZK4qo-HKkRBuzKr-HJRevZaNU4A"
+        }
+      ]
+    },
+    {
+      "name": "烛心社 / 彩云支南协会 / 南山谷协会 / 生命关怀协会 / 学生法律援助中心 / 梦行社 / 云聚社",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "公益与服务类在册社团；烛心社为研究生助学公益社团，连续多年五星。号名未核实。",
+      "tags": [
+        "糖心旦",
+        "朋辈",
+        "已单列",
+        "烛心社",
+        "彩云支南",
+        "南山谷",
+        "生命关怀",
+        "学生法律援助中心"
+      ],
+      "links": []
+    },
+    {
+      "name": "理财协会 / 量化投资协会 / 证券投资协会 / 全球治理与国际组织人才发展协会",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "自律互助类在册。号名未核实。",
+      "tags": [
+        "iCareer协会",
+        "iJob协会",
+        "已单列",
+        "理财协会",
+        "量化投资协会"
+      ],
+      "links": []
+    },
+    {
+      "name": "……以及：城市定向社 / 龙舟协会 / 围棋象棋国际象棋 / 羽毛球足篮排 / 自行车协会 / 登山探险 / 攀岩 / 旱地冰球 等",
+      "account_id": "",
+      "id_type": "wxid",
+      "status": "unverified",
+      "desc": "体育类社团数量最多，公开资料里几乎不露出微信号。最省事的办法：微信搜「复旦大学学生社团」→ 菜单进小程序 → 社团中心搜名字 → 看最新招新推送，通常第一条就是号入口。",
+      "tags": [
+        "园委会系列",
+        "已单列",
+        "爱久",
+        "北苑",
+        "西苑",
+        "江湾",
+        "张江",
+        "南东苑"
+      ],
+      "links": []
+    }
+  ]
+}

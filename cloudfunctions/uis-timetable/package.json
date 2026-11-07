@@ -1,0 +1,9 @@
+{
+  "name": "uis-timetable",
+  "version": "1.0.0",
+  "description": "复旦 UIS 登录 + 课表拉取云函数（照 danxi 实现）",
+  "main": "index.js",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0"
+  }
+}
