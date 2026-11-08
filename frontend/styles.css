@@ -286,6 +286,7 @@ body {
   justify-content: center;
   cursor: pointer;
   color: var(--ink);
+  box-shadow: 0 2px 8px rgba(0,0,0,.06);
 }
 .icon-btn.avatar { border: none; background: linear-gradient(135deg, #9b7bb5, #5a8fc7); }
 
@@ -322,12 +323,25 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 3px;
+  gap: 6px;
   font-family: var(--sans);
   transition: transform .12s ease;
 }
 .nav-tile:active { transform: scale(.96); }
-.nt-ico { font-size: 24px; }
+.nt-ico {
+  width: 46px; height: 46px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  line-height: 1;
+  background: var(--green-soft);
+}
+.nav-tile:nth-child(1) .nt-ico { background: var(--green-soft); }
+.nav-tile:nth-child(2) .nt-ico { background: var(--blue-soft); }
+.nav-tile:nth-child(3) .nt-ico { background: var(--amber-soft); }
+.nav-tile:nth-child(4) .nt-ico { background: var(--purple-soft); }
 .nt-name { font-size: 13px; font-weight: 700; color: var(--ink); }
 .nt-sub { font-size: 12px; color: var(--ink-3); }
 
@@ -352,7 +366,7 @@ body {
   background: var(--card);
   border-radius: var(--radius);
   padding: 13px;
-  box-shadow: 0 2px 12px rgba(0,0,0,.04);
+  box-shadow: 0 1px 2px rgba(0,0,0,.03), 0 6px 20px rgba(0,0,0,.06);
 }
 
 .ec-cover {
@@ -505,11 +519,11 @@ body {
   border-left: 3px solid;
   font-size: 11px;
   line-height: 1.25;
-  box-shadow: 0 1px 3px rgba(0,0,0,.05);
+  box-shadow: 0 1px 2px rgba(0,0,0,.04);
 }
 .cal-cell .cc-name { font-weight: 600; word-break: break-all; }
-.cal-cell .cc-sub { font-size: 11px; opacity: .72; margin-top: 2px; word-break: break-all; }
-.cal-cell.course { background: #efece3; border-left-color: #c3bfb2; color: #55534c; }
+.cal-cell .cc-sub { font-size: 9px; opacity: .7; margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cal-cell.course { background: #f0ede4; border-left-color: #c8c4b8; color: #5a584f; }
 .cal-cell.event { color: #3a3a36; border-left-width: 4px; }
 
 .cal-legend {
@@ -733,7 +747,7 @@ body {
   border-radius: var(--radius);
   padding: 14px;
   margin-bottom: 14px;
-  box-shadow: 0 2px 12px rgba(0,0,0,.04);
+  box-shadow: 0 1px 2px rgba(0,0,0,.03), 0 6px 20px rgba(0,0,0,.06);
 }
 .fb-head { display: flex; justify-content: space-between; align-items: center; padding-bottom: 10px; margin-bottom: 8px; border-bottom: 1px solid var(--line); }
 .fb-title { font-size: 13px; font-weight: 800; color: var(--green-deep); }
@@ -775,7 +789,7 @@ body {
   background: var(--card);
   border-radius: var(--radius);
   padding: 14px;
-  box-shadow: 0 2px 12px rgba(0,0,0,.04);
+  box-shadow: 0 1px 2px rgba(0,0,0,.03), 0 6px 20px rgba(0,0,0,.06);
 }
 .rc-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
 .rc-subj { font-size: 11px; font-weight: 700; color: var(--green-deep); background: var(--green-soft); padding: 2px 9px; border-radius: 6px; }
@@ -809,7 +823,7 @@ body {
   background: var(--card);
   border-radius: var(--radius);
   overflow: hidden;
-  box-shadow: 0 2px 12px rgba(0,0,0,.04);
+  box-shadow: 0 1px 2px rgba(0,0,0,.03), 0 6px 20px rgba(0,0,0,.06);
   display: flex;
   flex-direction: column;
 }
@@ -846,7 +860,7 @@ body {
   background: var(--card);
   border-radius: var(--radius);
   padding: 14px;
-  box-shadow: 0 2px 12px rgba(0,0,0,.04);
+  box-shadow: 0 1px 2px rgba(0,0,0,.03), 0 6px 20px rgba(0,0,0,.06);
 }
 .bc-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
 .bc-scene { font-size: 11px; font-weight: 700; color: var(--green-deep); background: var(--green-soft); padding: 2px 9px; border-radius: 6px; }
@@ -875,7 +889,7 @@ body {
   border: 1px solid var(--line);
   border-radius: var(--radius);
   padding: 16px;
-  box-shadow: 0 2px 12px rgba(0,0,0,.04);
+  box-shadow: 0 1px 2px rgba(0,0,0,.03), 0 6px 20px rgba(0,0,0,.06);
 }
 .cert-title { font-size: 15px; font-weight: 800; color: var(--ink); margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
 .cert-sub { font-size: 12px; color: var(--ink-2); line-height: 1.5; margin-bottom: 14px; }

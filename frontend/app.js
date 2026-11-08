@@ -32,14 +32,14 @@ const COURSES = [
   { name: '城市化发展', room: 'H6509', day: 1, start: 9.92, end: 11.58 },
   // 周二
   { name: '有机化学', room: 'H3401', day: 2, start: 9.92, end: 11.58 },
-  { name: '强国之路', room: '正大体育馆', day: 2, start: 13.5, end: 15.17 },
+  { name: '强国之路', room: '正大', day: 2, start: 13.5, end: 15.17 },
   // 周三
   { name: '分子与细胞', room: 'H4105', day: 3, start: 9.92, end: 11.58 },
   { name: '马原原理', room: 'HGX307', day: 3, start: 15.42, end: 17.08 },
   { name: '中国近现代史', room: 'HGX507', day: 3, start: 19.42, end: 21.08 },
   // 周四
   { name: '化学实验', room: '化学楼', day: 4, start: 8.92, end: 12.5 },
-  { name: '健康体适能', room: '北区体育馆', day: 4, start: 13.5, end: 15.17 },
+  { name: '健康体适能', room: '北区', day: 4, start: 13.5, end: 15.17 },
   { name: '深度学习', room: 'H4201', day: 4, start: 15.42, end: 17.08 },
   // 周五
   { name: '有机化学', room: 'H3401', day: 5, start: 9.92, end: 11.58 },
